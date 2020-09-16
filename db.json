@@ -1,0 +1,24 @@
+{
+  "blogs": [
+    {
+      "title": "Travel",
+      "content": "Let your mind wander in the pure and simple \" The words of Chuang Tzu rang in my ears as I walked . Autumn is coming with Winter just around the corner . It seems a little strange to say winter is coming when the sun is beaming down. It is 25 degrees at least and feels much warmer. The sun has been like a large red ball in the sky. The wildfires of the USA seem to have created some kind of phenomenon where the smoke has been picked up by the jet stream . The jet stream has carried it across the Atlantic and coloured up our September sun. But nevertheless Autumn is lurking there quietly but there nevertheless .\n\nThere are two more weeks to September and then another three before the clocks change . The lights are having to be put on in the mornings . It is now much darker than it was a few weeks ago. The lights come on earlier at night . The heating even pops on some mornings. Walks take on a different meaning than those of early Spring when I thought Covid was going to be over and done",
+      "like": 3,
+      "dislike": 4,
+      "datetime": "9/16/2020, 5:29:07 PM",
+      "category": "Travel Blog",
+      "author": "Lalit",
+      "id": 1
+    },
+    {
+      "title": "Food",
+      "content": "hfulk",
+      "like": 0,
+      "dislike": 0,
+      "datetime": "9/16/2020, 5:29:32 PM",
+      "category": "Food Blog",
+      "author": "Lalit",
+      "id": 2
+    }
+  ]
+}
